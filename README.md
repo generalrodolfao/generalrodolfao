@@ -1,82 +1,46 @@
+<h1 align="center">Rodolfo Barbosa</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=IA+que+gera+caixa;Dados+que+decidem;Agentes+que+entregam" alt="Typing SVG" />
+  <strong>Founder & CEO @ <a href="https://dtsqd.com">Data Squad</a></strong><br/>
+  <em>IA que gera caixa · dados que decidem · agentes que entregam</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/generalrodolfao"><img src="https://img.shields.io/badge/LinkedIn-29K-00154E?style=flat-square&logo=linkedin&logoColor=F17405" /></a>
+  <a href="https://youtube.com/DataSquad"><img src="https://img.shields.io/badge/YouTube-3.5K-00154E?style=flat-square&logo=youtube&logoColor=F17405" /></a>
+  <a href="https://instagram.com/general.rodolfao"><img src="https://img.shields.io/badge/Instagram-8.3K-00154E?style=flat-square&logo=instagram&logoColor=F17405" /></a>
+  <a href="mailto:rodolfo@dtsqd.com"><img src="https://img.shields.io/badge/-rodolfo@dtsqd.com-00154E?style=flat-square&logo=gmail&logoColor=F17405" /></a>
 </p>
 
 ---
 
-## Sobre
-
-Fundador da **Data Squad**, onde transformamos dados em decisões estratégicas e criamos agentes de IA que geram resultado real. Minha atuação combina **estratégia de dados**, **automação inteligente** e **go-to-market** para entregar soluções que saem do papel e viram caixa.
-
-> "Dado sem ação é custo. Agente sem entrega é hype. O que importa é o que roda em produção."
-
----
-
-## Áreas de Atuação
-
-| | |
-|---|---|
-| 🤖 **AI Agents & Automação** | Agentes inteligentes, pipelines autônomos, RAG corporativo |
-| 📊 **Estratégia de Dados** | Arquitetura, governança, analytics, engenharia de dados |
-| 🚀 **GTM & Pricing** | Go-to-market estratégico, reposicionamento de produto, matriz competitiva |
-| 🔗 **Integração & Infra** | Airflow, APIs, ERPs, automação de processos |
-| 🧠 **LLMs & NLP** | LangChain, RAG, fine-tuning, chatbots inteligentes |
-
----
-
-## Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**langchat_open**](https://github.com/generalrodolfao/langchat_open) | Chat inteligente com LLMs para documentação e suporte | Python, LangChain |
-| [**erp_agent**](https://github.com/generalrodolfao/erp_agent) | Agente autônomo para integração e automação de ERPs | Python, Agents |
-| [**standards**](https://github.com/generalrodolfao/standards) | Aurum — Validador inteligente de qualidade de projetos | Python, ML |
-| [**neto_gpt**](https://github.com/generalrodolfao/neto_gpt) | Assistente GPT para gestão de negócios | Python, OpenAI |
-| [**airflow-blackops**](https://github.com/generalrodolfao/airflow-blackops) | Pipelines de dados orquestrados com Airflow | Python, Airflow |
-| [**rag_corporativo**](https://github.com/generalrodolfao/rag_corporativo) | RAG corporativo para busca inteligente em documentos | Python, RAG |
+Sócio estratégico de C-levels que querem **tirar IA do PowerPoint e botar em produção.** 12+ anos de estrada — de BI corporativo a agentes autônomos com LangGraph. Qlik Sense Partner Ambassador, LinkedIn Top Voice, 7.000+ profissionais treinados em 11 países, 50+ projetos entregues.
 
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=generalrodolfao&show_icons=true&theme=dark&border_color=1a1a2e&bg_color=0a0a0a&text_color=888888&icon_color=00d4ff&title_color=00d4ff&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=generalrodolfao&layout=compact&theme=dark&border_color=1a1a2e&bg_color=0a0a0a&text_color=888888&title_color=00d4ff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=generalrodolfao&theme=dark&background=0a0a0a&border=1a1a2e&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=00d4ff&sideLabels=888888&dates=555555&hide_border=true" />
+  <b>🎙️ Podcasts</b><br/><br/>
+  <a href="https://open.spotify.com/search/rodolfo%20barbosa%20podcafe"><img src="https://img.shields.io/badge/PodCafe_Tech-430075?style=flat-square" /></a>
+  <a href="https://open.spotify.com/search/rodolfo%20barbosa%20tech%20floripa"><img src="https://img.shields.io/badge/Tech_Floripa_Cast-430075?style=flat-square" /></a>
+  <a href="https://open.spotify.com/search/rodolfo%20barbosa%20golden%20talks"><img src="https://img.shields.io/badge/Golden_Talks-430075?style=flat-square" /></a>
+  <a href="https://open.spotify.com/search/inteligencia%20ativa%20destrave%20poder%20dados"><img src="https://img.shields.io/badge/Inteligência_Ativa-430075?style=flat-square" /></a>
+  <a href="https://open.spotify.com/search/guia%20dos%20analistas%20rodolfo"><img src="https://img.shields.io/badge/Guia_dos_Analistas-430075?style=flat-square" /></a>
+  <a href="https://open.spotify.com/search/cubocast%20qlik%20power%20bi"><img src="https://img.shields.io/badge/CuboCast-430075?style=flat-square" /></a>
 </p>
 
 ---
 
-## Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## Contato
-
-<p align="center">
-  <a href="mailto:rodolfo@dtsqd.com">
-    <img src="https://img.shields.io/badge/-rodolfo@dtsqd.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=00d4ff" />
+  <a href="https://github-readme-stats.vercel.app/api?username=generalrodolfao&show_icons=true&theme=dark&bg_color=00000000&text_color=888888&icon_color=F17405&title_color=F17405&hide_border=true&hide=contribs">
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=generalrodolfao&show_icons=true&theme=dark&bg_color=00000000&text_color=888888&icon_color=F17405&title_color=F17405&hide_border=true&hide=contribs" />
   </a>
-  <a href="tel:+5511987887799">
-    <img src="https://img.shields.io/badge/-%2B55%2011%2098788%207799-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=00d4ff" />
-  </a>
-  <a href="https://github.com/generalrodolfao">
-    <img src="https://img.shields.io/badge-/generalrodolfao-1a1a2e?style=for-the-badge&logo=github&logoColor=00d4ff" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=generalrodolfao&layout=compact&theme=dark&bg_color=00000000&text_color=888888&title_color=F17405&hide_border=true">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=generalrodolfao&layout=compact&theme=dark&bg_color=00000000&text_color=888888&title_color=F17405&hide_border=true" />
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=generalrodolfao&color=00d4ff&style=flat-square&label=visualiza%C3%A7%C3%B5es" />
+  <b>Data Squad</b> · <a href="https://dtsqd.com">dtsqd.com</a> · <a href="mailto:rodolfo@dtsqd.com">rodolfo@dtsqd.com</a>
 </p>
