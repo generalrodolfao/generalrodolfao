@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/generalrodolfao/generalrodolfao/main/header.svg" alt="Header" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=IA+que+gera+caixa;Dados+que+decidem;Agentes+que+entregam" alt="Typing SVG" />
 </p>
 
