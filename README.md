@@ -8,6 +8,7 @@
   <a href="https://linkedin.com/in/generalrodolfao"><img src="https://img.shields.io/badge/LinkedIn-29K-00154E?style=flat-square&logo=linkedin&logoColor=F17405" /></a>
   <a href="https://youtube.com/DataSquad"><img src="https://img.shields.io/badge/YouTube-3.5K-00154E?style=flat-square&logo=youtube&logoColor=F17405" /></a>
   <a href="https://instagram.com/general.rodolfao"><img src="https://img.shields.io/badge/Instagram-8.3K-00154E?style=flat-square&logo=instagram&logoColor=F17405" /></a>
+  <a href="https://github.com/generalrodolfao/community"><img src="https://img.shields.io/badge/196_dias_de_código-00154E?style=flat-square&logo=github&logoColor=F17405" /></a>
   <a href="mailto:rodolfo@dtsqd.com"><img src="https://img.shields.io/badge/-rodolfo@dtsqd.com-00154E?style=flat-square&logo=gmail&logoColor=F17405" /></a>
 </p>
 
