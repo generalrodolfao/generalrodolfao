@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Header" />
+  <img src="https://raw.githubusercontent.com/generalrodolfao/generalrodolfao/main/header.svg" alt="Header" />
 </p>
 
 <p align="center">
@@ -71,16 +71,16 @@ Fundador da **Data Squad**, onde transformamos dados em decisões estratégicas 
 
 <p align="center">
   <a href="mailto:rodolfo@dtsqd.com">
-    <img src="https://img.shields.io/badge/Email-rodolfo@dtsqd.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&color=1a1a2e" />
+    <img src="https://img.shields.io/badge/-rodolfo@dtsqd.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=00d4ff" />
   </a>
   <a href="tel:+5511987887799">
-    <img src="https://img.shields.io/badge/Phone-%2B55%2011%2098788%207799-00d4ff?style=for-the-badge&logo=whatsapp&logoColor=white&color=1a1a2e" />
+    <img src="https://img.shields.io/badge/-%2B55%2011%2098788%207799-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=00d4ff" />
   </a>
   <a href="https://github.com/generalrodolfao">
-    <img src="https://img.shields.io/badge/GitHub-generalrodolfao-00d4ff?style=for-the-badge&logo=github&logoColor=white&color=1a1a2e" />
+    <img src="https://img.shields.io/badge-/generalrodolfao-1a1a2e?style=for-the-badge&logo=github&logoColor=00d4ff" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=generalrodolfao&color=00d4ff&style=flat-square&label=visualizações" />
+  <img src="https://komarev.com/ghpvc/?username=generalrodolfao&color=00d4ff&style=flat-square&label=visualiza%C3%A7%C3%B5es" />
 </p>
