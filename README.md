@@ -31,8 +31,8 @@ Sócio estratégico de C-levels que querem **tirar IA do PowerPoint e botar em p
 ---
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=generalrodolfao&show_icons=true&theme=dark&bg_color=00000000&text_color=888888&icon_color=F17405&title_color=F17405&hide_border=true&hide=contribs">
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=generalrodolfao&show_icons=true&theme=dark&bg_color=00000000&text_color=888888&icon_color=F17405&title_color=F17405&hide_border=true&hide=contribs" />
+  <a href="https://github-readme-stats.vercel.app/api?username=generalrodolfao&show_icons=true&theme=dark&bg_color=00000000&text_color=888888&icon_color=F17405&title_color=F17405&hide_border=true&hide_rank=true">
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=generalrodolfao&show_icons=true&theme=dark&bg_color=00000000&text_color=888888&icon_color=F17405&title_color=F17405&hide_border=true&hide_rank=true" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=generalrodolfao&layout=compact&theme=dark&bg_color=00000000&text_color=888888&title_color=F17405&hide_border=true">
     <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=generalrodolfao&layout=compact&theme=dark&bg_color=00000000&text_color=888888&title_color=F17405&hide_border=true" />
