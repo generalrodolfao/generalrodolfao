@@ -80,7 +80,7 @@ Batch, streaming (CDC) e APIs conectando sistemas corporativos a LLMs em tempo r
 
 <p align="center">
   <a href="https://youtube.com/DataSquad"><img src="https://img.shields.io/badge/Data_Squad_(_3.5K_)-282828?style=flat-square&logo=youtube&logoColor=F17405" /></a>
-  <a href="https://youtube.com/@tropadosdados"><img src="https://img.shields.io/badge/Tropa_dos_Dados-282828?style=flat-square&logo=youtube&logoColor=F17405" /></a>
+  <a href="https://tropa.dtsqd.com"><img src="https://img.shields.io/badge/Tropa_dos_Dados-282828?style=flat-square&logo=target&logoColor=F17405" /></a>
   <a href="https://youtu.be/70onB8Q2jSs"><img src="https://img.shields.io/badge/PodCafe_Tech_"Da_Farda_aos_Dados"-282828?style=flat-square" /></a>
   <br/>
   <a href="https://open.spotify.com/search/rodolfo%20barbosa%20podcafe"><img src="https://img.shields.io/badge/PodCafe_Tech-430075?style=flat-square" /></a>
